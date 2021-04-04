@@ -1,0 +1,4 @@
+[submodule "lib/api/internal"]
+	path = lib/api/internal
+	url = https://github.com/nice-up/nice-api.git
+	branch = master
